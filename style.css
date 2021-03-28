@@ -1,0 +1,41 @@
+body
+{
+	background-color: #ffba00;
+}
+.buttons
+{
+	height: 50px;
+	font-size: 25px;
+	display: flex;
+	justify-content: space-around;
+}
+.buttons a
+{
+	background-color: #5339e5;
+	text-decoration: none;
+	color: black;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 20px;
+	border-color: white;
+	width: 25%;
+	text-align: center;
+	height: 50px;
+}
+.buttons a:hover
+{
+	background-color: black;
+	color: #ffba00;
+}
+img
+{
+	margin-top: 10px;
+	width: 30%;
+	margin-left: 35%;
+}
+.text
+{
+	font-size: 20px;
+	width: 95%;
+	margin-left: 2.5%;
+}

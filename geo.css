@@ -1,0 +1,44 @@
+body
+{
+	background-color: #ffba00;
+}
+.buttons
+{
+	height: 50px;
+	font-size: 25px;
+	display: flex;
+	justify-content: space-around;
+}
+.buttons a
+{
+	background-color: #8749e5;
+	text-decoration: none;
+	color: black;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 20px;
+	border-color: white;
+	width: 25%;
+	text-align: center;
+	height: 50px;
+}
+.buttons a:hover
+{
+	background-color: black;
+	color: #ffba00;
+}
+.text
+{
+	width: 95%;
+	margin-left: 2.5%;
+	font-size: 30px;
+}
+hr
+{
+	color:  #8749e5;
+}
+iframe
+{
+	width: 72%;
+	margin-left: 14%;
+}
